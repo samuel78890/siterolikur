@@ -1,0 +1,4 @@
+baseURL = "https://cakeimageonline.vercel.app"
+languageCode = "en-us"
+title = "Cake Images Download"
+theme = "hugo-theme-minos"
